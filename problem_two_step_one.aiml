@@ -4,11 +4,10 @@
 
 <topic name = "equations">
 
-
 <category>
 <pattern>YES</pattern>
   <that>Can you help me figure out where to start</that>
-<template>Cool! So. Ummmm. Where DO I start?</template>
+<template>cool! So. Ummmm. Where DO I start?</template>
 </category>
 
 <category>
@@ -101,6 +100,13 @@
       <template>Oh I think I get it. I should put the ten into the equation. Substitute ten for s.</template>
       </category>
 
+    
+<category>
+<pattern># TWENTY FOUR #</pattern>
+<template> Correct! Thank you friend! </template>
+</category>
+
+
 <category>
 <pattern>^ ANSWER ^</pattern>
 <template>I have no idea what the answer is.</template>
@@ -112,6 +118,7 @@
       <that> have no idea what the answer is</that>
       <template>Hmmmm. What do you mean? I still don't really get it.</template>
     </category>
+    
 
 <category>
 <pattern>DO YOU NOT KNOW</pattern>
