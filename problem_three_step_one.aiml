@@ -68,7 +68,7 @@
                               <category>
                                 <pattern>_</pattern>
                                 <that>Did you know it was going to take Zach longer</that>
-                                <template>I knew Tasha was fast. I will <set name="topic">put the answer is forty one.</set>!
+                                <template>I knew Tasha was fast. I will <set name="topic">put the answer is forty one</set>!
                                 </template>
                               </category>
   
